@@ -9,5 +9,6 @@ public class TestClass
     //przykladowa zmiana - test pull-a
     //druga zmiana wprowadzona przez github
     //test push to upstream
+    //zmiana od starej wersji; kolejna zmiana
   }
 }
